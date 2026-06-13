@@ -6,6 +6,17 @@ The project implements a **Bidirectional LSTM (BiLSTM)** neural network and comp
 
 ---
 
+> **📌 Recommended Environment**
+>
+> This project is designed to run in **Google Colab** and **Jupyter Notebook** environments.
+>
+> - **Google Colab (Recommended):** No local setup required, free GPU support, and all dependencies can be installed automatically.
+> - **Jupyter Notebook:** Run locally after installing the required Python packages listed in the Dependencies section.
+>
+> For the best experience, open `Hate_Speech_Detection.ipynb` in **Google Colab** and execute all cells sequentially from top to bottom.
+
+---
+
 ## 🎯 Overview
 
 Online platforms generate massive amounts of user content daily, making automated moderation increasingly important. This project explores Natural Language Processing (NLP) techniques to classify text into three categories:
